@@ -2,7 +2,7 @@
   "use strict";
 
   var ENTER_KEY_CODE = 13;
-  var ACCESS_TOKEN = "3501b98607d34968861fc82e76ae4553";
+  var ACCESS_TOKEN = "f1dd2ce5218c479d8674a030a26e2865";
   var queryInput, resultDiv, accessTokenInput;
 
   window.onload = init;
