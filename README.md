@@ -1,5 +1,4 @@
-**This is the V2 version of api.ai JS SDK. If you are looking for old one, please visit 'v1-deprecated' branch**
-**Deprecation Notice!  API.AI's TTS has been deprecated**
+**Go to Simple folder to find index.html**
 
 # Installation
 
